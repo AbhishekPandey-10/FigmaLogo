@@ -1,7 +1,7 @@
 
   # Bold Tech Emblem Logo
 
-  This is a code bundle for Bold Tech Emblem Logo. The original project is available at https://www.figma.com/design/PPnGj6pnMfqUI6qUO8XQPM/Bold-Tech-Emblem-Logo.
+  This is a code bundle for Bold Tech Emblem Logo. The original project is available at https://www.figma.com/community/file/1579386805867621728/the-controller .
 
   ## Running the code
 
